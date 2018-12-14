@@ -1,8 +1,5 @@
-body{
-   p{
-      color: red;
-   }
-  b{
-     background: #ededed;
-  }
+@import "variable";
+
+body {
+   color: $color1;
 }
